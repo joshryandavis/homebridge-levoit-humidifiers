@@ -1,7 +1,8 @@
 export enum DeviceName {
   Classic300S = 'Classic300S',
   Classic200S = "Classic200S",
-  Dual200S = 'Dual200S',
+  Dual200S = '"LUH-D301S-WEU',
+  //Dual200S = 'Dual200S',
 }
 
 export interface DeviceType {
