@@ -1,6 +1,6 @@
 {
   "description": "Made for Classic 300s",
-  "name": "homebridge-levoit-humidifiers-fork",
+  "name": "homebridge-levoit-humidifiers2",
   "displayName": "Levoit Humidifiers",
   "main": "dist/index.js",
   "license": "Apache-2.0",
